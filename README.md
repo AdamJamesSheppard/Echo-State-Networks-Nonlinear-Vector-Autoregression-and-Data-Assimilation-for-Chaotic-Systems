@@ -1,6 +1,7 @@
 # Echo-State-Networks-Nonlinear-Vector-Autoregression-and-Data-Assimilation-for-Chaotic-Systems
 
 THESE ARE ONLY PRELIMINARY RESULTS 
+<span style="color:blue">some *blue* text</span>
 1. __To Include__
     - Data Assimilation Methods 
     - Narration of results 
