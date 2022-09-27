@@ -2,11 +2,7 @@
 
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+    THESE ARE ONLY PRELIMINARY RESULTS 
 ```
 
 1. __To Include__
