@@ -17,7 +17,7 @@ THESE ARE ONLY PRELIMINARY RESULTS
 
 3. __Other Neural Network Models__
 
-    * Nonlinear Vector AutoRegression (NVAR)
+    * Nonlinear Vector AutoRegression (NVAR) - Next Generation Reservoir Computer
 
 4. __Data Assimilation Methods__ 
 
